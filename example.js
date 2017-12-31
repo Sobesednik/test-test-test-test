@@ -1,0 +1,3 @@
+const testTestTestTest = require('./')
+
+testTestTestTest()
